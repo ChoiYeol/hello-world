@@ -13,4 +13,4 @@
   -헤드로 부터 시작된경우 아주 쉽게 병합가능
 	 - Fast forwoard
 
-## master commit 병합 하면서 에러 만들어내기
+## version3 의 브렌치 병합용
